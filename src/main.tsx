@@ -15,9 +15,6 @@ class App extends React.Component {
 }
 
 const myTheme = {
-  "layout": {
-    "pageWidth": "350pt"
-  }
 };
 
 ReactDOM.render(
